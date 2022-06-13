@@ -1,0 +1,7 @@
+Financial Analysis
+---------------------
+Total Months: 86
+Net Profit: 38382578
+Average monthly Revenue: 446309.0465116279
+Highest earnings: Feb-2012, (1170593)
+Lowest earnings: Sep-2013, (-1196225) 
